@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <convert reg="legacy_pojo.xml" from="C传承.xlsx"/>
+    <convert reg="game_item_pojo_new.xml" from="D道具列表Nemo_Items.xlsx" need_translate="false" />
+    <convert reg="storyevent_pojo_new.xml" from="J剧情事件Nemo_StoryEvents.xlsx" need_translate="false" />
+</root>

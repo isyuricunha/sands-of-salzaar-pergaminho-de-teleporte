@@ -1,0 +1,12 @@
+{
+  "multilan": "true",
+  "type": "plugin",
+  "name": "[PT-BR] Pergaminho de Teleporte",
+  "desc": "Um pergaminho de teleporte bastante útil, mas sua função de localizar pessoas só funciona se a outra pessoa não tiver más intenções em relação a você.",
+  "tags": "Items",
+  "start_scene": "",
+  "include_main_game": "1",
+  "homepage_background": "",
+  "audioControllerAdditional": "",
+  "build_version": "1.0.32"
+}
