@@ -1,4 +1,4 @@
-# Sands of Salzaar - Tradução para Português Brasileiro
+# Sands of Salzaar - [PT-BR] Pergaminho de Teleporte
 
 ## Introdução
 
